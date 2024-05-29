@@ -7,9 +7,15 @@ points for a merchant by considering different priorities or combinations of rul
 
 Rules:
 Rule 1: Earn 500 points for every $75 spent at Sport Check, $25 at Tim Hortons, and $25 at Subway
+
 Rule 2: Gain 300 points for every $75 spent at Sport Check and $25 at Tim Hortons
+
 Rule 3: Obtain 200 points for every $75 spent at Sport Check
+
 Rule 4: Receive 150 points for every $25 spent at Sport Check, $10 at Tim Hortons, and $10 at Subway
+
 Rule 5: Acquire 75 points for every $25 spent at Sport Check and $10 at Tim Hortons
+
 Rule 6: Attain 75 points for every $20 spent at Sport Check
+
 Rule 7: Get 1 point for every $1 spent on all other purchases (including leftover amounts)
