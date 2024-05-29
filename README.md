@@ -6,6 +6,7 @@ Given that multiple reward points calculation rules may apply to a merchant's tr
 points for a merchant by considering different priorities or combinations of rules.
 
 Rules:
+
 Rule 1: Earn 500 points for every $75 spent at Sport Check, $25 at Tim Hortons, and $25 at Subway
 
 Rule 2: Gain 300 points for every $75 spent at Sport Check and $25 at Tim Hortons
