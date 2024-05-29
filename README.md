@@ -1,4 +1,4 @@
-I Developed a Credit Card Reward Points System, aiming to calculate monthly rewards points based on customers' purchases. 
+I developed a Credit Card Reward Points System, aiming to calculate monthly rewards points based on customers' purchases. 
 The system applies various reward calculation rules to maximize points earned, considering different priorities and combinations of rules for each transaction.
 
 The aim is to devise a rewards calculation system capable of determining the total monthly reward points earned by customers. 
